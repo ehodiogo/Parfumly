@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     'recomendacoes',
     'reviews',
     'usuarios',
-    'api'
+    'api',
+    'planos'
 ]
 
 REST_FRAMEWORK = {
